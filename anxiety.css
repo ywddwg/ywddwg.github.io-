@@ -1,0 +1,27 @@
+
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+ 
+*{ overflow-x: hidden;
+}
+  body{
+   background-color: #8080ff;
+   text-transform: capitalize;
+   
+   
+
+ }
+ h3{
+   font-family: Lemonada;
+   text-align: center;
+   color: blanchedalmond;
+ }
+ textarea{
+   height: 250px;
+   width: 75%;
+   
+   margin: 0px 150px 150px 150px;
+   border-color: black;
+   border-width: 1.5px;
+    
+ }
